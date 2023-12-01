@@ -10,4 +10,5 @@
 /.vscode
 /public/js/app.js
 /yarn.lock
-/storage
+/storage/upload
+/public/upload
